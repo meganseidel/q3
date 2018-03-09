@@ -1,0 +1,33 @@
+body {
+	background-color: #EAE3F7;
+}
+h1{
+	color: #72687F;
+	font-family: Arial;
+	border-style: double;
+	border-color: #85819B;
+}
+h2 {
+	color: #72687F;
+	font-family: Arial;
+}
+ul {
+	color: #72687F;
+	font-family: Arial;
+}
+ol {
+	color: #72687F;
+	font-family: Arial;
+}
+.pic {
+	border: 6px;
+	border-style: double;
+	border-color: #85819B;
+	width: 30%;
+}
+img {
+	width: 30%;
+	border: 4px;
+	border-style: solid;
+	border-color: #85819B;
+}
